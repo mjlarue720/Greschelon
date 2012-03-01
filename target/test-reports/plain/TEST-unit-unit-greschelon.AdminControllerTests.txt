@@ -1,0 +1,10 @@
+Testsuite: greschelon.AdminControllerTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.059 sec
+------------- Standard Output ---------------
+--Output from testSomething--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testSomething--
+------------- ---------------- ---------------
+
+Testcase: testSomething took 1.034 sec
